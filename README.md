@@ -1,3 +1,3 @@
 
 Few programs made, while learning the course
-Includes every concept of object oriented.
+Includes different concept of object oriented.
